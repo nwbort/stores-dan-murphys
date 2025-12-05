@@ -75,13 +75,20 @@ fi
 CURRENT_DIR="$(pwd)"
 FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 
-# Pretty-print JSON if applicable
+# Pretty-print and sort JSON if applicable
 if [ "$EXTENSION" = ".json" ]; then
   # Create another temporary file for the pretty-printed version
   PRETTY_TEMP=$(mktemp)
   # Try to pretty-print with jq, but don't fail if jq fails
   if command -v jq &> /dev/null; then
-    if jq . "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
+    # Sort by Id if there's a Stores array, otherwise just pretty-print
+    if jq -e '.Stores' "$TEMP_FILE" > /dev/null 2>&1; then
+      if jq '.Stores |= sort_by(.Id | tonumber)' "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
+        mv "$PRETTY_TEMP" "$TEMP_FILE"
+      else
+        rm -f "$PRETTY_TEMP"
+      fi
+    elif jq . "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
       mv "$PRETTY_TEMP" "$TEMP_FILE"
     else
       rm -f "$PRETTY_TEMP"
