@@ -38,11 +38,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "11:00 AM - 7:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "11:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -76,6 +71,11 @@
           "Day": "Saturday",
           "Hours": "11:00 AM - 7:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "11:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -121,11 +121,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -159,6 +154,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -205,11 +205,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 7:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -243,6 +238,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -290,11 +290,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -328,6 +323,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -374,11 +374,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -412,6 +407,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -457,11 +457,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -495,6 +490,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -540,11 +540,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -578,6 +573,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -624,11 +624,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -662,6 +657,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -708,11 +708,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -746,6 +741,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -787,11 +787,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "11:00 AM - 7:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "11:00 AM - 5:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -825,6 +820,11 @@
           "Day": "Saturday",
           "Hours": "11:00 AM - 7:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "11:00 AM - 5:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -871,11 +871,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -909,6 +904,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -955,11 +955,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -993,6 +988,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1039,11 +1039,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1077,6 +1072,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1124,11 +1124,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1162,6 +1157,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1208,11 +1208,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1246,6 +1241,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1293,11 +1293,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1331,6 +1326,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1375,11 +1375,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1413,6 +1408,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1456,11 +1456,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1494,6 +1489,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1541,11 +1541,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1579,6 +1574,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1623,11 +1623,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1661,6 +1656,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1708,11 +1708,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1746,6 +1741,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1792,11 +1792,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1830,6 +1825,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1876,11 +1876,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -1914,6 +1909,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -1962,11 +1962,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2000,6 +1995,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2046,11 +2046,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2084,6 +2079,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2130,11 +2130,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2168,6 +2163,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2211,11 +2211,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2249,6 +2244,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2296,11 +2296,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2334,6 +2329,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2380,11 +2380,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2418,6 +2413,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2465,11 +2465,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2503,6 +2498,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2550,11 +2550,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2588,6 +2583,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2631,11 +2631,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2669,6 +2664,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2716,11 +2716,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2754,6 +2749,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2800,11 +2800,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2838,6 +2833,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2885,11 +2885,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -2923,6 +2918,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -2970,11 +2970,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3008,6 +3003,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3056,11 +3056,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3094,6 +3089,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3143,11 +3143,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3181,6 +3176,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3228,11 +3228,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3266,6 +3261,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3313,11 +3313,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3351,6 +3346,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3397,11 +3397,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3435,6 +3430,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3481,11 +3481,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3519,6 +3514,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3567,11 +3567,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3605,6 +3600,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3653,11 +3653,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3691,6 +3686,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3737,11 +3737,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3775,6 +3770,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3822,11 +3822,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3860,6 +3855,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3907,11 +3907,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -3945,6 +3940,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -3991,11 +3991,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4029,6 +4024,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4076,11 +4076,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4114,6 +4109,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4159,11 +4159,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4197,6 +4192,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4243,11 +4243,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4281,6 +4276,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4324,11 +4324,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4362,6 +4357,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4408,11 +4408,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4446,6 +4441,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4493,11 +4493,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4531,6 +4526,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4577,11 +4577,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4615,6 +4610,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4662,11 +4662,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4700,6 +4695,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4744,11 +4744,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4782,6 +4777,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4828,11 +4828,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4866,6 +4861,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4912,11 +4912,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -4950,6 +4945,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -4996,11 +4996,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5034,6 +5029,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5079,11 +5079,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5117,6 +5112,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5164,11 +5164,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5202,6 +5197,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5248,11 +5248,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5286,6 +5281,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5332,11 +5332,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5370,6 +5365,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5416,11 +5416,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5454,6 +5449,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5501,11 +5501,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5539,6 +5534,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5583,11 +5583,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "8:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5621,6 +5616,11 @@
           "Day": "Saturday",
           "Hours": "8:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5667,11 +5667,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5705,6 +5700,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5751,11 +5751,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5789,6 +5784,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5835,11 +5835,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5873,6 +5868,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -5919,11 +5919,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -5957,6 +5952,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6003,11 +6003,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6041,6 +6036,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6088,11 +6088,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6126,6 +6121,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6172,11 +6172,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6210,6 +6205,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6256,11 +6256,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "8:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6294,6 +6289,11 @@
           "Day": "Saturday",
           "Hours": "8:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6340,11 +6340,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6378,6 +6373,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6424,11 +6424,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6462,6 +6457,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6507,11 +6507,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6545,6 +6540,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6592,11 +6592,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6630,6 +6625,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6676,11 +6676,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6714,6 +6709,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6759,11 +6759,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6797,6 +6792,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6842,11 +6842,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6880,6 +6875,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -6926,11 +6926,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -6964,6 +6959,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7011,11 +7011,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7049,6 +7044,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7095,11 +7095,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7133,6 +7128,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7180,11 +7180,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7218,6 +7213,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7265,11 +7265,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7303,6 +7298,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7350,11 +7350,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7388,6 +7383,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7434,11 +7434,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7472,6 +7467,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7517,11 +7517,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7555,6 +7550,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7601,11 +7601,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7639,6 +7634,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7685,11 +7685,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7723,6 +7718,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7771,11 +7771,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7809,6 +7804,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7856,11 +7856,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7894,6 +7889,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -7941,11 +7941,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -7979,6 +7974,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8027,11 +8027,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8065,6 +8060,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8111,11 +8111,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8149,6 +8144,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8195,11 +8195,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8233,6 +8228,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8280,11 +8280,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8318,6 +8313,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8365,11 +8365,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8403,6 +8398,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8451,11 +8451,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8489,6 +8484,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8536,11 +8536,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8574,6 +8569,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8621,11 +8621,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8659,6 +8654,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8706,11 +8706,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8744,6 +8739,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8791,11 +8791,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8829,6 +8824,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8873,11 +8873,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8911,6 +8906,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -8957,11 +8957,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -8995,6 +8990,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9042,11 +9042,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9080,6 +9075,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9127,11 +9127,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9165,6 +9160,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9211,11 +9211,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9249,6 +9244,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9295,11 +9295,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9333,6 +9328,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9379,11 +9379,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9417,6 +9412,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9464,11 +9464,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9502,6 +9497,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9549,11 +9549,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9587,6 +9582,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9633,11 +9633,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9671,6 +9666,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9716,11 +9716,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9754,6 +9749,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9801,11 +9801,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9839,6 +9834,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9883,11 +9883,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -9921,6 +9916,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -9969,11 +9969,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10007,6 +10002,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10054,11 +10054,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10092,6 +10087,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10139,11 +10139,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10177,6 +10172,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10220,11 +10220,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10258,6 +10253,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 10:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10305,11 +10305,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10343,6 +10338,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10389,11 +10389,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10427,6 +10422,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10472,11 +10472,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10510,6 +10505,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10556,11 +10556,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10594,6 +10589,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10640,11 +10640,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10678,6 +10673,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10725,11 +10725,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10763,6 +10758,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10810,11 +10810,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10848,6 +10843,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10895,11 +10895,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -10933,6 +10928,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -10979,11 +10979,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11017,6 +11012,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11063,11 +11063,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11101,6 +11096,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11147,11 +11147,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11185,6 +11180,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11233,11 +11233,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11271,6 +11266,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11317,11 +11317,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11355,6 +11350,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11401,11 +11401,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11439,6 +11434,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11485,11 +11485,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11523,6 +11518,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11569,11 +11569,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11607,6 +11602,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11653,11 +11653,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11691,6 +11686,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11738,11 +11738,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11776,6 +11771,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11822,11 +11822,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11860,6 +11855,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11906,11 +11906,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -11944,6 +11939,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -11992,11 +11992,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12030,6 +12025,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12078,11 +12078,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12116,6 +12111,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12162,11 +12162,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12200,6 +12195,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12247,11 +12247,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12285,6 +12280,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12331,11 +12331,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12369,6 +12364,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12415,11 +12415,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12453,6 +12448,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12499,11 +12499,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12537,6 +12532,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12583,11 +12583,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 7:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12621,6 +12616,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 7:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12668,11 +12668,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12706,6 +12701,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12741,11 +12741,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "Closed",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "Closed",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12779,6 +12774,11 @@
           "Day": "Saturday",
           "Hours": "Closed",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "Closed",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12827,11 +12827,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12865,6 +12860,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12912,11 +12912,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -12950,6 +12945,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -12998,11 +12998,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13036,6 +13031,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13084,11 +13084,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13122,6 +13117,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13170,11 +13170,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13208,6 +13203,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13255,11 +13255,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13293,6 +13288,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13339,11 +13339,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13377,6 +13372,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13424,11 +13424,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13462,6 +13457,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13508,11 +13508,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13546,6 +13541,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13591,11 +13591,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13629,6 +13624,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13677,11 +13677,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13715,6 +13710,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13764,11 +13764,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13802,6 +13797,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13850,11 +13850,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13888,6 +13883,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -13936,11 +13936,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -13974,6 +13969,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14020,11 +14020,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14058,6 +14053,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14107,11 +14107,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14145,6 +14140,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14191,11 +14191,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14229,6 +14224,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14277,11 +14277,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14315,6 +14310,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14361,11 +14361,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14399,6 +14394,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14446,11 +14446,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14484,6 +14479,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14531,11 +14531,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14569,6 +14564,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14614,11 +14614,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14652,6 +14647,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14701,11 +14701,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14739,6 +14734,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14781,11 +14781,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14819,6 +14814,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14866,11 +14866,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14904,6 +14899,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -14952,11 +14952,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -14990,6 +14985,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15038,11 +15038,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15076,6 +15071,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15122,11 +15122,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15160,6 +15155,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15208,11 +15208,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15246,6 +15241,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15293,11 +15293,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15331,6 +15326,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15378,11 +15378,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15416,6 +15411,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15464,11 +15464,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15502,6 +15497,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 9:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15548,11 +15548,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15586,6 +15581,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15634,11 +15634,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15672,6 +15667,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15718,11 +15718,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15756,6 +15751,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15804,11 +15804,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15842,6 +15837,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15890,11 +15890,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -15928,6 +15923,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -15974,11 +15974,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16012,6 +16007,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16058,11 +16058,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16096,6 +16091,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16144,11 +16144,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16182,6 +16177,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16229,11 +16229,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16267,6 +16262,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16314,11 +16314,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16352,6 +16347,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16397,11 +16397,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16435,6 +16430,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16484,11 +16484,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16522,6 +16517,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16565,11 +16565,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16603,6 +16598,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16649,11 +16649,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16687,6 +16682,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16734,11 +16734,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16772,6 +16767,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16818,11 +16818,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16856,6 +16851,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16903,11 +16903,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -16941,6 +16936,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -16989,11 +16989,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17027,6 +17022,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17075,11 +17075,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17113,6 +17108,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17161,11 +17161,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17199,6 +17194,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17245,11 +17245,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17283,6 +17278,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17329,11 +17329,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17367,6 +17362,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17413,11 +17413,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17451,6 +17446,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17499,11 +17499,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17537,6 +17532,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17584,11 +17584,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17622,6 +17617,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17670,11 +17670,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17708,6 +17703,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17754,11 +17754,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17792,6 +17787,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17839,11 +17839,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17877,6 +17872,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -17923,11 +17923,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -17961,6 +17956,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18006,11 +18006,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18044,6 +18039,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18089,11 +18089,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18127,6 +18122,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18173,11 +18173,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18211,6 +18206,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18259,11 +18259,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18297,6 +18292,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18344,11 +18344,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18382,6 +18377,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18427,11 +18427,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18465,6 +18460,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18512,11 +18512,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18550,6 +18545,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18591,11 +18591,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18629,6 +18624,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18675,11 +18675,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18713,6 +18708,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18756,11 +18756,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18794,6 +18789,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18841,11 +18841,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18879,6 +18874,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -18926,11 +18926,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -18964,6 +18959,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19008,11 +19008,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19046,6 +19041,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19089,11 +19089,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "CLOSED",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19127,6 +19122,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "CLOSED",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19174,11 +19174,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19212,6 +19207,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19257,11 +19257,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19295,6 +19290,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19342,11 +19342,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19380,6 +19375,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19424,11 +19424,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19462,6 +19457,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19508,11 +19508,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19546,6 +19541,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19591,11 +19591,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19629,6 +19624,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19676,11 +19676,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19714,6 +19709,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19759,11 +19759,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19797,6 +19792,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19842,11 +19842,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19880,6 +19875,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -19925,11 +19925,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -19963,6 +19958,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20010,11 +20010,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20048,6 +20043,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20094,11 +20094,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20132,6 +20127,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20178,11 +20178,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20216,6 +20211,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20261,11 +20261,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20299,6 +20294,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20344,11 +20344,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20382,6 +20377,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20430,11 +20430,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20468,6 +20463,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20512,11 +20512,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20550,6 +20545,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20596,11 +20596,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20634,6 +20629,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20680,11 +20680,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20718,6 +20713,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20763,11 +20763,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20801,6 +20796,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20848,11 +20848,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20886,6 +20881,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -20932,11 +20932,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -20970,6 +20965,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21016,11 +21016,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21054,6 +21049,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21098,11 +21098,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21136,6 +21131,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21181,11 +21181,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21219,6 +21214,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21265,11 +21265,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21303,6 +21298,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21349,11 +21349,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21387,6 +21382,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21433,11 +21433,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21471,6 +21466,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21517,11 +21517,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21555,6 +21550,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21601,11 +21601,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21639,6 +21634,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21685,11 +21685,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21723,6 +21718,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21766,11 +21766,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21804,6 +21799,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21850,11 +21850,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21888,6 +21883,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -21933,11 +21933,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -21971,6 +21966,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22018,11 +22018,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22056,6 +22051,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22102,11 +22102,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22140,6 +22135,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22184,11 +22184,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22222,6 +22217,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22268,11 +22268,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22306,6 +22301,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22351,11 +22351,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22389,6 +22384,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22434,11 +22434,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22472,6 +22467,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22518,11 +22518,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22556,6 +22551,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22604,11 +22604,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22642,6 +22637,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22689,11 +22689,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22727,6 +22722,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22774,11 +22774,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22812,6 +22807,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22858,11 +22858,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22896,6 +22891,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -22943,11 +22943,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -22981,6 +22976,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23027,11 +23027,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23065,6 +23060,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23111,11 +23111,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23149,6 +23144,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23190,11 +23190,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23228,6 +23223,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23274,11 +23274,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23312,6 +23307,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23358,11 +23358,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23396,6 +23391,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "9:00 AM - 8:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23431,11 +23431,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "Closed",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "Closed",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23469,6 +23464,11 @@
           "Day": "Saturday",
           "Hours": "Closed",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "Closed",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23514,11 +23514,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 10:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23552,6 +23547,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 10:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 10:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23599,11 +23599,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23637,6 +23632,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23683,11 +23683,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23721,6 +23716,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23768,11 +23768,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23806,6 +23801,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23847,11 +23847,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "10:00 AM - 7:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23885,6 +23880,11 @@
           "Day": "Saturday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -23934,11 +23934,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 7:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -23972,6 +23967,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 7:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24018,11 +24018,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24056,6 +24051,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24103,11 +24103,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24141,6 +24136,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24188,11 +24188,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 9:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24226,6 +24221,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 9:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24272,11 +24272,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24310,6 +24305,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24357,11 +24357,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "9:00 AM - 8:00 PM",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "10:00 AM - 6:00 PM",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24395,6 +24390,11 @@
           "Day": "Saturday",
           "Hours": "9:00 AM - 8:00 PM",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "10:00 AM - 6:00 PM",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
@@ -24430,11 +24430,6 @@
       "Phone": "1300723388",
       "OpeningHours": [
         {
-          "Day": "Saturday",
-          "Hours": "Closed",
-          "Date": "2026-07-18T00:00:00.0000000"
-        },
-        {
           "Day": "Sunday",
           "Hours": "Closed",
           "Date": "2026-07-19T00:00:00.0000000"
@@ -24468,6 +24463,11 @@
           "Day": "Saturday",
           "Hours": "Closed",
           "Date": "2026-07-25T00:00:00.0000000"
+        },
+        {
+          "Day": "Sunday",
+          "Hours": "Closed",
+          "Date": "2026-07-26T00:00:00.0000000"
         }
       ],
       "IsOpenToday": false
